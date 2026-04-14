@@ -1,0 +1,13 @@
+{
+  "name": "Agri-Shakti AI",
+  "description": "An editorial-grade agricultural AI platform empowering farmers with Vision AI diagnostics, market intelligence, and multilingual voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Vision AI",
+    "Market Intelligence",
+    "Voice Assistant"
+  ]
+}
